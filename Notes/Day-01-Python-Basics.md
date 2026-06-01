@@ -1270,5 +1270,5 @@ Practice Programs Completed: 10
 
 Status:
 
-✅Day 1 Completed Successfully
+Day 1 Completed Successfully
 
