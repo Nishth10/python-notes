@@ -3,23 +3,41 @@
 ## Day 1 Topics Covered
 
 What is Programming
+
 What is Python
+
 High Level Language
+
 Compiler vs Interpreter
+
 Python Installation
+
 VS Code Setup
+
 Running Python Programs
+
 Python Character Set
+
 print() Function
+
 Variables
+
 Variable Naming Rules
+
 Data Types
+
 Keywords
+
 Python Case Sensitivity
+
 Operators
+
 Type Conversion
+
 Input Function
+
 Conditional Statements
+
 Ternary Operator
 
 
